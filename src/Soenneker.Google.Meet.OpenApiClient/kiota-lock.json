@@ -1,0 +1,35 @@
+{
+  "descriptionHash": "85879D90F8FD36C2F4B12692B19E50F0FE13742EBA3E7580AD86AC7E27EAA9FC3B3EDCD7E80DE8EE9E9381B8CEA2998EC681AF8237A7141AAA99F4563E76B1B5",
+  "descriptionLocation": "../../openapi.fixed.json",
+  "lockFileVersion": "1.0.0",
+  "kiotaVersion": "1.38.0",
+  "clientClassName": "GoogleMeetOpenApiClient",
+  "typeAccessModifier": "Public",
+  "clientNamespaceName": "Soenneker.Google.Meet.OpenApiClient",
+  "language": "CSharp",
+  "usesBackingStore": false,
+  "excludeBackwardCompatible": true,
+  "includeAdditionalData": true,
+  "disableSSLValidation": false,
+  "serializers": [
+    "Microsoft.Kiota.Serialization.Json.JsonSerializationWriterFactory",
+    "Microsoft.Kiota.Serialization.Text.TextSerializationWriterFactory",
+    "Microsoft.Kiota.Serialization.Form.FormSerializationWriterFactory",
+    "Microsoft.Kiota.Serialization.Multipart.MultipartSerializationWriterFactory"
+  ],
+  "deserializers": [
+    "Microsoft.Kiota.Serialization.Json.JsonParseNodeFactory",
+    "Microsoft.Kiota.Serialization.Text.TextParseNodeFactory",
+    "Microsoft.Kiota.Serialization.Form.FormParseNodeFactory"
+  ],
+  "structuredMimeTypes": [
+    "application/json",
+    "text/plain;q=0.9",
+    "application/x-www-form-urlencoded;q=0.2",
+    "multipart/form-data;q=0.1"
+  ],
+  "includePatterns": [],
+  "excludePatterns": [],
+  "disabledValidationRules": [],
+  "allowedExternalOrigins": []
+}
