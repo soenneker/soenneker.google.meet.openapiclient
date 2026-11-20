@@ -2,7 +2,7 @@
   "descriptionHash": "85879D90F8FD36C2F4B12692B19E50F0FE13742EBA3E7580AD86AC7E27EAA9FC3B3EDCD7E80DE8EE9E9381B8CEA2998EC681AF8237A7141AAA99F4563E76B1B5",
   "descriptionLocation": "../../openapi.fixed.json",
   "lockFileVersion": "1.0.0",
-  "kiotaVersion": "1.38.0",
+  "kiotaVersion": "1.39.0",
   "clientClassName": "GoogleMeetOpenApiClient",
   "typeAccessModifier": "Public",
   "clientNamespaceName": "Soenneker.Google.Meet.OpenApiClient",
